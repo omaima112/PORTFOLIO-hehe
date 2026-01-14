@@ -65,7 +65,7 @@ export function Projects() {
         '/projects/birthday2.PNG',
         '/projects/birthday3.PNG',
       ],
-      liveUrl: 'https://birthday-gift-git-main-omaimahs-projects.vercel.app/',
+      liveUrl: 'https://birthday-gift-lzkg.vercel.app/',
       codeUrl: 'https://github.com/omaima112/BirthdayGift.git',
     },
     {
